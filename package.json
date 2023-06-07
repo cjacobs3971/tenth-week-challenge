@@ -1,0 +1,17 @@
+{
+  "name": "tenth-week-challenge",
+  "version": "1.0.0",
+  "description": "logo program",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.2.7"
+  },
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
